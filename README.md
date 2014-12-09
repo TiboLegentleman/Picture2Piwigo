@@ -1,5 +1,5 @@
 Picasa2Piwigo²
-==============
+================================================================================================================
 
 Picasa2Piwigo² reprendre les grandes lignes de son précurseur (de Picasa2Piwigo de KenL, merci à lui), tout en l'améliorant avec de nouvelles fonctions. Grâce à la lecture de la base de données de Picasa, il est possible d'uploader quasi toutes les informations disponibles. En contrepartie, l'application doit lire à chaque démarrage la base de données de Picasa (moins de 15s pour la lire tout de même).
 
@@ -19,7 +19,8 @@ Fonctionnalités :
 Testé avec Piwigo 2.7.2 et Exiftool 9.76
 En espérant qu'elle vous apporte satisfaction.
 
-//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+================================================================================================================
+
 
 Picasa2Piwigo² resume outline its precursor (from Picasa2Piwigo of KenL, thanks to him), while improving it with new features. Through reading the Picasa database, it's possible to upload almost all available information. In return, the application must read each time you start Picasa database (under 15s to read anyway).
 
@@ -38,3 +39,6 @@ Features:
 
 Tested with Piwigo 2.7.2 and ExifTool 9.76
 Hoping it brings you satisfaction.
+
+Thibault Merelle
+Copyright Merelle 2014
