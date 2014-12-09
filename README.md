@@ -1,7 +1,7 @@
-Picasa2Piwigo²
+Picture2Piwigo
 ================================================================================================================
 
-Picasa2Piwigo² reprendre les grandes lignes de son précurseur (de Picasa2Piwigo de KenL, merci à lui), tout en l'améliorant avec de nouvelles fonctions. Grâce à la lecture de la base de données de Picasa, il est possible d'uploader quasi toutes les informations disponibles. En contrepartie, l'application doit lire à chaque démarrage la base de données de Picasa (moins de 15s pour la lire tout de même).
+Picture2Piwigo reprendre les grandes lignes de son précurseur (de Picasa2Piwigo de KenL, merci à lui), tout en l'améliorant avec de nouvelles fonctions. Grâce à la lecture de la base de données de Picasa, il est possible d'uploader quasi toutes les informations disponibles. En contrepartie, l'application doit lire à chaque démarrage la base de données de Picasa (moins de 15s pour la lire tout de même).
 
 Fonctionne de 3 façons :
 - Directement depuis Picasa (création d'un bouton d'upload pour l'album en cours)
